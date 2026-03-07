@@ -8,5 +8,14 @@ const JsUser = {
 }
 // accessing objects
 
-console.log(JsUser.email)
-console.log(JsUser["email"])
+//console.log(JsUser.email)
+//console.log(JsUser["email"])
+// json in js
+/*
+{
+   " name" :"Atul",
+    "coursename" : "js in hindi ",
+    "price":"free"
+}
+    /*
+    
